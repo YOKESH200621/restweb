@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## NAME: YOKESH I
 ## Date:21/05/2025
 
